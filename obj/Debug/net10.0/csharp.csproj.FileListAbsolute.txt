@@ -1,0 +1,14 @@
+/Users/wangjane/Desktop/csharp/bin/Debug/net10.0/csharp
+/Users/wangjane/Desktop/csharp/bin/Debug/net10.0/csharp.deps.json
+/Users/wangjane/Desktop/csharp/bin/Debug/net10.0/csharp.runtimeconfig.json
+/Users/wangjane/Desktop/csharp/bin/Debug/net10.0/csharp.dll
+/Users/wangjane/Desktop/csharp/bin/Debug/net10.0/csharp.pdb
+/Users/wangjane/Desktop/csharp/obj/Debug/net10.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wangjane/Desktop/csharp/obj/Debug/net10.0/csharp.AssemblyInfoInputs.cache
+/Users/wangjane/Desktop/csharp/obj/Debug/net10.0/csharp.AssemblyInfo.cs
+/Users/wangjane/Desktop/csharp/obj/Debug/net10.0/csharp.csproj.CoreCompileInputs.cache
+/Users/wangjane/Desktop/csharp/obj/Debug/net10.0/csharp.dll
+/Users/wangjane/Desktop/csharp/obj/Debug/net10.0/refint/csharp.dll
+/Users/wangjane/Desktop/csharp/obj/Debug/net10.0/csharp.pdb
+/Users/wangjane/Desktop/csharp/obj/Debug/net10.0/csharp.genruntimeconfig.cache
+/Users/wangjane/Desktop/csharp/obj/Debug/net10.0/ref/csharp.dll
