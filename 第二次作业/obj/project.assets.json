@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wangjane/Desktop/csharp/第一次作业/csharp.csproj",
-      "projectName": "csharp",
-      "projectPath": "/Users/wangjane/Desktop/csharp/第一次作业/csharp.csproj",
+      "projectUniqueName": "/Users/wangjane/Desktop/csharp/第二次作业/第二次作业.csproj",
+      "projectName": "第二次作业",
+      "projectPath": "/Users/wangjane/Desktop/csharp/第二次作业/第二次作业.csproj",
       "packagesPath": "/Users/wangjane/.nuget/packages/",
-      "outputPath": "/Users/wangjane/Desktop/csharp/第一次作业/obj/",
+      "outputPath": "/Users/wangjane/Desktop/csharp/第二次作业/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wangjane/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/wangjane/Desktop/csharp/第二次作业/bin/Debug/net10.0/第二次作业
+/Users/wangjane/Desktop/csharp/第二次作业/bin/Debug/net10.0/第二次作业.deps.json
+/Users/wangjane/Desktop/csharp/第二次作业/bin/Debug/net10.0/第二次作业.runtimeconfig.json
+/Users/wangjane/Desktop/csharp/第二次作业/bin/Debug/net10.0/第二次作业.dll
+/Users/wangjane/Desktop/csharp/第二次作业/bin/Debug/net10.0/第二次作业.pdb
+/Users/wangjane/Desktop/csharp/第二次作业/obj/Debug/net10.0/第二次作业.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wangjane/Desktop/csharp/第二次作业/obj/Debug/net10.0/第二次作业.AssemblyInfoInputs.cache
+/Users/wangjane/Desktop/csharp/第二次作业/obj/Debug/net10.0/第二次作业.AssemblyInfo.cs
+/Users/wangjane/Desktop/csharp/第二次作业/obj/Debug/net10.0/第二次作业.csproj.CoreCompileInputs.cache
+/Users/wangjane/Desktop/csharp/第二次作业/obj/Debug/net10.0/第二次作业.sourcelink.json
+/Users/wangjane/Desktop/csharp/第二次作业/obj/Debug/net10.0/第二次作业.dll
+/Users/wangjane/Desktop/csharp/第二次作业/obj/Debug/net10.0/refint/第二次作业.dll
+/Users/wangjane/Desktop/csharp/第二次作业/obj/Debug/net10.0/第二次作业.pdb
+/Users/wangjane/Desktop/csharp/第二次作业/obj/Debug/net10.0/第二次作业.genruntimeconfig.cache
+/Users/wangjane/Desktop/csharp/第二次作业/obj/Debug/net10.0/ref/第二次作业.dll
